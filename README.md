@@ -1,3 +1,7 @@
+EXP NO:06
+
+DATE:07-06-23
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
